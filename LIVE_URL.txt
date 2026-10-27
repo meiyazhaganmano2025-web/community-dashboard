@@ -1,0 +1,10 @@
+EduCommunity Dashboard Live Public URL:
+https://af5247defd6ea6d6-152-57-195-248.serveousercontent.com
+
+Backup / Localtunnel URL:
+https://tasty-cooks-fold.loca.lt
+(Tunnel password / IP: 152.57.195.248)
+
+Local URL: http://localhost:5000
+Admin Passcode: admin2026
+Status: Active & Verified
